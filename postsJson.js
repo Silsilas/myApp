@@ -15,7 +15,7 @@ db.posts.insert([
     userId: 1,
     id: 1,
     title: 'mama',
-    completed: false,=
+    completed: true,
   }
 
 ])
