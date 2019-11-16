@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Silsilas/myApp#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^1.19.4"
+    "nodemon": "^1.19.4",
+    "pg": "^7.12.1"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
